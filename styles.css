@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(231, 205, 255);
+}
+
+h1 {
+  background-color: rgb(243, 108, 243);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 15px;
+}
+
+button {
+  margin-top: 200px;
+  margin-left: 50%;
+  margin-right: 50%;
+}
